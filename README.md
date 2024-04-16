@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jquirinoc-dev" alt="jquirinoc-dev" /></a> </p>
 
-- 🔭 I’m currently working on [Softbrot](https://softbrot.com/)
-
 - 🌱 I’m currently learning **Back-end development**
 
 - 👨‍💻 All of my projects are available at [https://jquirinoc-dev.netlify.app/](https://jquirinoc-dev.netlify.app/)
 
 - 💬 Ask me about **React, HTML, CSS, Python**
 
-- 📫 How to reach me **jonathan@softbrot.com**
+- 📫 How to reach me **jjquirinoc02@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
